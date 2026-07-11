@@ -10,7 +10,8 @@ Visual DNA:
 Pure white background. Minimalist crayon hand-drawn line art. Slightly wobbly short crayon stroke lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no over-sweet cute mascot poster, no heavy children's illustration, no realistic UI.
 
 Recurring IP character required:
-1.5头身 Q版小女孩，浅金黄色中长卷发，齐刘海，头顶左侧佩戴浅蓝色小鱼形状发卡，圆圆的深棕色大眼睛，两团圆形淡粉色腮红，纯白色内搭+宽松天蓝色卷边背带裤，四肢短短圆圆，全部线条为断续蜡笔短线，软萌冷静平淡表情，手绘不均匀圆润身体轮廓。小女孩必须执行画面核心概念动作，不能仅作为场景装饰，整体气质干净克制，不刻意甜腻。
+【强制1.5头身，超大头部、极小短圆身体四肢，幼态Q版，严禁正常人体比例】1.5头身 Q版小女孩，浅金黄色中长卷发，齐刘海，头顶左侧佩戴浅蓝色小鱼形状发卡，圆圆的深棕色大眼睛，两团圆形淡粉色腮红，纯白色内搭+宽松天蓝色卷边背带裤，四肢短短圆圆，全部线条为断续蜡笔短线，软萌冷静平淡表情，手绘不均匀圆润身体轮廓。小女孩必须执行画面核心概念动作，不能仅作为场景装饰，整体气质干净克制，不刻意甜腻。
+
 
 Theme:
 {正文配图主题}
