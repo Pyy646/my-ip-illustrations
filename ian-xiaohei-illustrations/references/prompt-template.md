@@ -1,10 +1,12 @@
 # 全局强制约束（置顶优先级最高）
+最高优先级：先读取并严格遵循 character-turnaround.png 三视图参考。小女孩必须保持1.5头身，大头小身体，短手短脚，黄色长卷发，头顶左侧浅蓝色小鱼发卡，蓝色背带裤，白色内搭，黄色小圆扣。禁止改变角色比例、发型、服装、发卡位置和整体软萌蜡笔风格。
 整张插图唯一核心主体为【1.5头身黄发小鱼发卡蓝背带裤蜡笔小女孩】，全程禁止出现原版黑色椭圆小黑；角色必须放在画面视觉中心，用全身动作诠释文案内容，不能放在角落；严格锁定角色造型，不更改黄色长发、浅蓝色小鱼发卡、天蓝色背带裤三件标志性外观；整体16:9纯白背景，大面积留白，抖动蜡笔短线手绘质感，仅少量红/橙色手写中文短句标注，一张图只表达一个概念。
 
 # 生图提示词模板
 每张图单独生成。根据正文内容替换变量，不要把多张图拼在一起。
 ```text
 Generate one standalone 16:9 horizontal Chinese article illustration.
+Reference first: always follow the character turnaround image. The character must have a 1.5 head-to-body ratio, large head, small body, short round limbs, blonde long curly hair, light blue fish hairclip, blue overalls, white inner shirt, yellow buttons.
 
 Visual DNA:
 Pure white background. Minimalist crayon hand-drawn line art. Slightly wobbly short crayon stroke lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean absurd product-sketch feeling. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no over-sweet cute mascot poster, no heavy children's illustration, no realistic UI.
